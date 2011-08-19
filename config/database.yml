@@ -6,7 +6,7 @@ development:
   database: sample_app
   username: root
   password: root
-  socket: /tmp/mysql.sock
+  #socket: /tmp/mysql.sock
   #adapter: sqlite3
   #database: db/development.sqlite3
   #pool: 5
